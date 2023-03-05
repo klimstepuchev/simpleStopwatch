@@ -1,0 +1,13 @@
+.stopwatch-container {
+    padding: 20px 0 0 50px;
+}
+
+.stopwatch {
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+    border: 1px solid #000;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
